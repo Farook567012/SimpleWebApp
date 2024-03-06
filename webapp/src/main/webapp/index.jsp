@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Flipkart shopping website</title>
+    <title>Ajio shopping website</title>
     <link rel="stylesheet" href="style.css">
 <style>
 	*{
@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> ****  Laptop offers available till 31st Jan 2024 **** </h1>   
+         <h1> ****  Laptop offers available till 1st Jan 2024 **** </h1>   
 	 
 
     </section>    
