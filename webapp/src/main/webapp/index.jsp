@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> ****  Mobile offers available till 1st June 2024 **** </h1>   
+         <h1> ****  Mobile offers available till 30st June 2024 **** </h1>   
 	 
 
     </section>    
