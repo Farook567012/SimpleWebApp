@@ -27,7 +27,7 @@ div, section, span, ul, li, a, header{
 /*css reset*/
 
 header{
-    width: 200%;
+    width: 100%;
     display: flex;
     justify-content: space-between;
     padding: 20px 50px;
@@ -49,7 +49,7 @@ header{
 }
 
 section{
-    width: 200%;
+    width: 100%;
     float: left;
     height: 100vh;
     position: relative;
