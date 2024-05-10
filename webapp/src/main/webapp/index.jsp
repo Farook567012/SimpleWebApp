@@ -16,7 +16,7 @@ html{
 }
 
 body{
-    font-size: 100%;
+    font-size: 200%;
     font-family: sans-serif;
 }
 
@@ -27,7 +27,7 @@ div, section, span, ul, li, a, header{
 /*css reset*/
 
 header{
-    width: 100%;
+    width: 200%;
     display: flex;
     justify-content: space-between;
     padding: 20px 50px;
@@ -49,7 +49,7 @@ header{
 }
 
 section{
-    width: 100%;
+    width: 200%;
     float: left;
     height: 100vh;
     position: relative;
@@ -89,7 +89,7 @@ h1{
     
     <section id="home">
         <header>
-            <span style="font-size:64px;margin-right:10px;color:orange">Flipkart shopping website</span>
+            <span style="font-size:64px;margin-right:10px;color:orange">Myntra shopping website</span>
             <ul id="menu">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about">About Us</a></li>
@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> ****  Laptop offers available till 1st Jan 2024 **** </h1>   
+         <h1> ****  Mobile offers available till 1st June 2024 **** </h1>   
 	 
 
     </section>    
